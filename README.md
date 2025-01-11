@@ -4,6 +4,16 @@ BusesABC es un proyecto en Flutter que incluye una API en .NET para gestionar da
 
 ---
 
+## Screenshots
+<div Style="display: flex;">
+<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240421-040403.jpg" height="300" />
+<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203543.jpg" height="300" />
+<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203530.jpg" height="300" />
+<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203425.jpg" height="300" />
+</div>
+
+---
+
 ## Cómo Empezar
 
 ### Requisitos Previos
@@ -59,16 +69,6 @@ La parte de Flutter del proyecto se encuentra en el directorio lib. Contiene el 
 ### API .NET
 
 La API de .NET se encuentra en el directorio ApiFlutter. Proporciona los endpoints para gestionar los datos relacionados con los autobuses.
-
----
-
-## Screenshots
-<div Style="display: flex;">
-<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240421-040403.jpg" height="300" />
-<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203543.jpg" height="300" />
-<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203530.jpg" height="300" />
-<img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203425.jpg" height="300" />
-</div>
 
 ---
 
