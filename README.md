@@ -5,7 +5,7 @@ BusesABC es un proyecto en Flutter que incluye una API en .NET para gestionar da
 ---
 
 ## Screenshots
-<div Style="display: flex; justify-content: space-evenly;">
+<div Style="display: flex;">
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240421-040403.jpg" height="300" />
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203543.jpg" height="300" />
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203530.jpg" height="300" />
