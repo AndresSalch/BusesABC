@@ -63,13 +63,12 @@ La API de .NET se encuentra en el directorio ApiFlutter. Proporciona los endpoin
 ---
 
 # SCREENSHOTS
-![alt text](https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240421-040403.jpg?raw=true)
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240421-040403.jpg" height="300" />
-![alt text](https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203543.jpg?raw=true)
+
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203543.jpg" height="300" />
-![alt text](https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203530.jpg?raw=true)
+
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203530.jpg" height="300" />
-![alt text](https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203425.jpg?raw=true)
+
 <img src="https://github.com/AndresSalch/APP_BUSES/blob/main/Screenshot_20240404-203425.jpg" height="300" />
 
 ---
